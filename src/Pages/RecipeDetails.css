@@ -1,0 +1,16 @@
+.details p{
+    font-size: xx-large;
+    color: whitesmoke;
+}
+.details h1 {
+    color: whitesmoke;
+} 
+
+.details img {
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 0 0 15px rgba(0,0,0,1);
+}
+.details {
+    margin-top: 10%;
+}

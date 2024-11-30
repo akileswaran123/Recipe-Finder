@@ -1,0 +1,14 @@
+.input input {
+    background-color: teal;
+    color: #f1ecec;
+    margin-left: 25%;
+    padding: 10px;
+    width: 50%;
+    text-align: center;
+    font-size: larger;
+  border-radius: 10px;
+  border-color: #f1ecec;
+}
+.input{
+    color: whitesmoke;
+}
